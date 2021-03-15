@@ -9,7 +9,6 @@
 // import DeviceInfo from 'react-native-device-info';
 
 // import {Colors} from 'react-native/Libraries/NewAppScreen';
-
 // const App = () => {
 //   DeviceInfo.getBuildId().then((buildId) => {
 //     // iOS: "12A269"
